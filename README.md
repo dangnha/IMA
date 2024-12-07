@@ -71,6 +71,7 @@ bash ./scripts/LTSF_mask/dataset/model_mask.sh
 # Long-term forecast with Imputation-data Augmentation
 bash ./scripts/LTSF_mask/dataset/model_mask_forecast.sh
 # Long-term forecast with Imputation-based Mixup Augmentation
+bash ./scripts/LTSF_mask/dataset/IBMA.sh
 ```
 
 ## Acknowledgement
