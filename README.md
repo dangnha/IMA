@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ## Data
 
-You can download ETT, Illness, Exchange Rate dataset run for this paper or another well pre-processed time series datasets at this resource [Google Drive](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2)
+You can download ETT, Illness, and Exchange Rate dataset run for this paper or other well pre-processed time series datasets at this resource [Google Drive](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2)
 
 ## Train your task
 
@@ -75,4 +75,4 @@ bash ./scripts/LTSF_mask/dataset/model_mask_forecast.sh
 
 ## Acknowledgement
 
-This work is based on [Time-Series-Library](https://github.com/thuml/Time-Series-Library) reposetory.
+This work is based on [Time-Series-Library](https://github.com/thuml/Time-Series-Library) repository.
